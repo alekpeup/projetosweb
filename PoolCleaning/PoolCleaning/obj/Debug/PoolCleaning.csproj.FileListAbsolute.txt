@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\PoolCleaning\PoolCleaning\bin\Debug\PoolCleaning.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\PoolCleaning\PoolCleaning\bin\Debug\PoolCleaning.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\PoolCleaning\PoolCleaning\bin\Debug\PoolCleaning.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\PoolCleaning\PoolCleaning\obj\Debug\PoolCleaning.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\PoolCleaning\PoolCleaning\obj\Debug\PoolCleaning.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\PoolCleaning\PoolCleaning\obj\Debug\PoolCleaning.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\PoolCleaning\PoolCleaning\obj\Debug\PoolCleaning.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\PoolCleaning\PoolCleaning\obj\Debug\PoolCleaning.pdb

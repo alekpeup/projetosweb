@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\practice\practice\bin\Debug\practice.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\practice\practice\bin\Debug\practice.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\practice\practice\bin\Debug\practice.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\practice\practice\obj\Debug\practice.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\practice\practice\obj\Debug\practice.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\practice\practice\obj\Debug\practice.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\practice\practice\obj\Debug\practice.pdb
