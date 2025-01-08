@@ -1,0 +1,9 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BrinquedoLoja\BrinquedoLoja\bin\Debug\BrinquedoLoja.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BrinquedoLoja\BrinquedoLoja\bin\Debug\BrinquedoLoja.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BrinquedoLoja\BrinquedoLoja\bin\Debug\BrinquedoLoja.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BrinquedoLoja\BrinquedoLoja\obj\Debug\BrinquedoLoja.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BrinquedoLoja\BrinquedoLoja\obj\Debug\BrinquedoLoja.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BrinquedoLoja\BrinquedoLoja\obj\Debug\BrinquedoLoja.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BrinquedoLoja\BrinquedoLoja\obj\Debug\BrinquedoLoja.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BrinquedoLoja\BrinquedoLoja\obj\Debug\BrinquedoLoja.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BrinquedoLoja\BrinquedoLoja\obj\Debug\BrinquedoLoja.historico.resources
