@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestesTestativos\TestesTestativos\obj\Debug\TestesTestativos.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestesTestativos\TestesTestativos\obj\Debug\TestesTestativos.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestesTestativos\TestesTestativos\obj\Debug\TestesTestativos.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestesTestativos\TestesTestativos\bin\Debug\TestesTestativos.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestesTestativos\TestesTestativos\bin\Debug\TestesTestativos.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestesTestativos\TestesTestativos\bin\Debug\TestesTestativos.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestesTestativos\TestesTestativos\obj\Debug\TestesTestativos.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestesTestativos\TestesTestativos\obj\Debug\TestesTestativos.pdb

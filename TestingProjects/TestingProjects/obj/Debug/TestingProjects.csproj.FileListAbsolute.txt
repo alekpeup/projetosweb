@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestingProjects\TestingProjects\bin\Debug\TestingProjects.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestingProjects\TestingProjects\bin\Debug\TestingProjects.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestingProjects\TestingProjects\bin\Debug\TestingProjects.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestingProjects\TestingProjects\obj\Debug\TestingProjects.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestingProjects\TestingProjects\obj\Debug\TestingProjects.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestingProjects\TestingProjects\obj\Debug\TestingProjects.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestingProjects\TestingProjects\obj\Debug\TestingProjects.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TestingProjects\TestingProjects\obj\Debug\TestingProjects.pdb
