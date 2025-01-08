@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\NostradamusTelecomunicacao\NostradamusTelecomunicacao\obj\Debug\NostradamusTelecomunicacao.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\NostradamusTelecomunicacao\NostradamusTelecomunicacao\obj\Debug\NostradamusTelecomunicacao.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\NostradamusTelecomunicacao\NostradamusTelecomunicacao\obj\Debug\NostradamusTelecomunicacao.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\NostradamusTelecomunicacao\NostradamusTelecomunicacao\bin\Debug\NostradamusTelecomunicacao.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\NostradamusTelecomunicacao\NostradamusTelecomunicacao\bin\Debug\NostradamusTelecomunicacao.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\NostradamusTelecomunicacao\NostradamusTelecomunicacao\bin\Debug\NostradamusTelecomunicacao.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\NostradamusTelecomunicacao\NostradamusTelecomunicacao\obj\Debug\NostradamusTelecomunicacao.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\NostradamusTelecomunicacao\NostradamusTelecomunicacao\obj\Debug\NostradamusTelecomunicacao.pdb
