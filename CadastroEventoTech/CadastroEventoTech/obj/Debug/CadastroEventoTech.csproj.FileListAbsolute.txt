@@ -1,0 +1,9 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CadastroEventoTech\CadastroEventoTech\bin\Debug\CadastroEventoTech.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CadastroEventoTech\CadastroEventoTech\bin\Debug\CadastroEventoTech.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CadastroEventoTech\CadastroEventoTech\bin\Debug\CadastroEventoTech.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CadastroEventoTech\CadastroEventoTech\obj\Debug\CadastroEventoTech.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CadastroEventoTech\CadastroEventoTech\obj\Debug\CadastroEventoTech.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CadastroEventoTech\CadastroEventoTech\obj\Debug\CadastroEventoTech.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CadastroEventoTech\CadastroEventoTech\obj\Debug\CadastroEventoTech.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CadastroEventoTech\CadastroEventoTech\obj\Debug\CadastroEventoTech.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CadastroEventoTech\CadastroEventoTech\obj\Debug\CadastroEventoTech.FmHome.resources
