@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SalarioLiquido\SalarioLiquido\bin\Debug\SalarioLiquido.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SalarioLiquido\SalarioLiquido\bin\Debug\SalarioLiquido.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SalarioLiquido\SalarioLiquido\bin\Debug\SalarioLiquido.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SalarioLiquido\SalarioLiquido\obj\Debug\SalarioLiquido.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SalarioLiquido\SalarioLiquido\obj\Debug\SalarioLiquido.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SalarioLiquido\SalarioLiquido\obj\Debug\SalarioLiquido.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SalarioLiquido\SalarioLiquido\obj\Debug\SalarioLiquido.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SalarioLiquido\SalarioLiquido\obj\Debug\SalarioLiquido.pdb
