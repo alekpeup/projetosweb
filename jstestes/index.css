@@ -1,0 +1,150 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  /* position: relative; Certifica que o body esteja posicionado corretamente */
+}
+
+header {
+  display: flex;
+  background-color: blueviolet;
+  width: 100%;
+  height: 3rem;
+}
+
+header nav {
+  flex: 2;
+  text-align: center;
+  padding: 8px 0;
+  height: 100%;
+  align-content: center;
+}
+
+header nav a {
+  text-decoration: none;
+  color: #e79fe7;
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: 10px;
+}
+
+header .pesquisa {
+  text-align: center;
+  align-content: center;
+  flex: 1;
+  height: 100%;
+}
+
+.pesquisa input {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 4px 8px;
+  outline: none;
+  border-radius: 8px;
+  border: none;
+  width: 80%;
+}
+
+ #img-fundo {
+  position: absolute;
+  top: 40%; 
+  right: 0;
+  width: 30%;
+  z-index: -1; 
+} 
+
+main {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  min-height: 100%; 
+  width: 100%;
+  background-color: rgb(201, 192, 114);
+  padding: 30px;
+}
+
+#section-img {
+  border: 1px solid black;
+  width: 100%;
+  border-radius: 8px;
+  justify-self: center;
+  align-content: center;
+  height: 400px;
+  padding: 4px;
+}
+
+#section-img .imagem-grande {
+  height: 100%;
+  width: 100%;
+  justify-self: center;
+}
+
+.imagem-grande img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+#section-articles {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+#section-articles h2 {
+  padding-left: 20px;
+  font-size: 40px;
+  color: rgba(49, 8, 49, 0.842);
+}
+
+.rowarticles {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: 100%; */
+  gap: 10px;
+}
+
+#primeiro {
+  background-color: #dab7da;
+  width: 200px;
+  /* height: 100%; */
+  align-content: end;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 0;
+}
+
+#primeiro img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  display: block;
+}
+
+.content {
+  padding: 4px 8px;
+  text-align: center;
+}
+
+.content button {
+  margin-top: 10px;
+  align-self: flex-end;
+  border: none;
+  padding: 4px 8px;
+  border-radius: 8px;
+  font-size: 18px;
+  background-color: blueviolet;
+  color: white;
+  cursor: pointer;
+}
