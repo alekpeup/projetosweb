@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\algumproject\algumproject\obj\Debug\algumproject.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\algumproject\algumproject\obj\Debug\algumproject.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\algumproject\algumproject\obj\Debug\algumproject.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\algumproject\algumproject\bin\Debug\algumproject.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\algumproject\algumproject\bin\Debug\algumproject.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\algumproject\algumproject\bin\Debug\algumproject.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\algumproject\algumproject\obj\Debug\algumproject.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\algumproject\algumproject\obj\Debug\algumproject.pdb
