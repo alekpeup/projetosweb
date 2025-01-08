@@ -1,0 +1,3 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\atividade\atividade\obj\Debug\atividade.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\atividade\atividade\obj\Debug\atividade.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\atividade\atividade\obj\Debug\atividade.csproj.GenerateResource.Cache

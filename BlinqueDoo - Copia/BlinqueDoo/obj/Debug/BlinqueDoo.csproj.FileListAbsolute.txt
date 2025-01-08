@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BlinqueDoo\BlinqueDoo\bin\Debug\BlinqueDoo.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BlinqueDoo\BlinqueDoo\bin\Debug\BlinqueDoo.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BlinqueDoo\BlinqueDoo\bin\Debug\BlinqueDoo.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BlinqueDoo\BlinqueDoo\obj\Debug\BlinqueDoo.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BlinqueDoo\BlinqueDoo\obj\Debug\BlinqueDoo.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BlinqueDoo\BlinqueDoo\obj\Debug\BlinqueDoo.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BlinqueDoo\BlinqueDoo\obj\Debug\BlinqueDoo.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\BlinqueDoo\BlinqueDoo\obj\Debug\BlinqueDoo.pdb
