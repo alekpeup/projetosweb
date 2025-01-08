@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Navigator</title>
+
+
+
+  <script>
+      function verify(){
+        var msg;
+        msg = navigator.platform;
+
+        if(navigator.cookieEnabled)
+        {
+          msg = "Cookies enabled.. You can Continue You are using " + navigator.language;
+        }else {
+          msg = "Your browser disabled Cookies - Please enable"
+        }
+        document.getElementById('msg').innerHTML = msg;
+      }
+  </script>
+
+
+</head>
+<body>
+  <button onclick="verify()">Verify cookies</button>
+    <h3 id="msg"></h3>
+</body>
+</html>

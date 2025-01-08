@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Datas</title>
+</head>
+<body>
+    <section class="pessoas">
+      <div class="pessoa1">
+          <div class="pessoa1datas">
+            <h2>Person 1</h2>
+            <label for="name1">Your name: </label>
+            <input type="text" name="username1" id="name1">
+            <label for="age1">Your age: </label>
+            <input type="number" name="userAge1" id="age1">
+            <label for="sexo1">You sexo</label>
+            <input type="text" name="usersexo1" id="sexo1">
+          </div>
+      </div>
+      <div class="pessoa2">
+        <div class="pessoa2datas">
+          <h2>Person 2</h2>
+          <label for="name2">Your name: </label>
+          <input type="text" name="username2" id="name2">
+          <label for="age2">Your age: </label>
+          <input type="number" name="userAge2" id="age2">
+          <label for="sexo2">You sexo</label>
+          <input type="text" name="usersexo2" id="sexo2">
+        </div>
+      </div>
+
+      <button onclick="collectData()">Send data</button>
+    </section>
+
+
+
+    <h3 id="person1OutName"></h3>
+    <h3 id="person1OutAge"></h3>
+    <h3 id="person1Outsexo"></h3>
+
+    <script>
+      class Pessoa()
+      {
+        
+        constructor(uName, age, sexo)
+        {
+            this.userName = uName;
+            this.userAge = age;
+            this.userSexo = sexo;
+
+        }
+
+        showUserInfo()
+        {
+          document.getElementById('person1OutName').textContent = userName;
+          document.getElementById('person1OutAge').textContent = userAge;
+          document.getElementById('person1Outsexo').textContent = userSexo;
+          document.write("congrats");
+        }
+      }
+
+      let userName = document.getElementById('name1').value;
+      let userAge = document.getElementById('age1').value;
+      let userSexo = document.getElementById('sexo1').value;
+
+      person1 = new Pessoa(userName, userAge, userSexo);
+      person1.showUserInfo();
+
+    </script>
+</body>
+</html>

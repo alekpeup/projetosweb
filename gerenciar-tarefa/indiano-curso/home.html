@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+
+  <script>
+      function GetDetails() 
+      {
+        document.getElementById('host').innerText = window.location.host;
+        var msg;
+        if (location.protocol =="http:"){
+          msg = "Your are using Live Web Server";
+          
+        }else {
+          msg = "your are using file server";
+        }
+        document.getElementById('protocol').innerHTML = location.protocol + "<br>"  + msg;
+        document.getElementById('URL').innerText = location.origin;
+
+      }
+
+
+
+      function GotoPage(){
+        location.href = "teste.html";
+      }
+  </script>
+
+
+
+  <style>
+    dt {
+      background-color: darkcyan;
+      color: white;
+      margin-top: 20px;
+    }
+
+    button {
+      cursor: pointer;
+    }
+  </style>
+
+
+
+
+</head>
+<body>
+    <h2>Location Details</h2>
+    <button onclick="GetDetails()">Get Details</button>
+    <button onclick="GotoPage()">View Window example</button>
+    <dl>
+      <dt>Server Name / IP Address</dt>
+      <dd id="host"></dd>
+      <dt>Protocol</dt>
+      <dd id="protocol"></dd>
+      <dt>URL</dt>
+      <dd id="URL"></dd>
+    </dl>
+</body>
+</html>

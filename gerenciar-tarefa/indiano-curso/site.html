@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      function bodyload()
+      {
+        var cities = ["Sao paulo", "hyid", "rio de janeiro"];
+        var lstcities = document.getElementById('lstCities');
+          for(var item of cities )
+          {
+            var opt = document.createElement("option");
+            opt.text = item;
+            opt.value = item
+            opt.style.borderRadius = "28px"
+            lstcities.appendChild(opt)
+          }
+    
+          
+      }
+
+      function removeElement(){
+        lstcities.remove();
+        
+      }
+    </script>
+  </head>
+  <body onload="bodyload()">
+    <button onclick="removeElement()">Remove</button>
+    <figure>
+        <legend>Yor city</legend>
+        <select name="" id="lstCities">
+        </select>
+    </figure>
+      <section>
+       
+      </section>
+  </body>
+</html>

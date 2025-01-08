@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plugins</title>
+
+  <script>
+    function f1(){
+        if(navigator.plugins['Chrome PDF Viwer'] == undefined){
+          alert("You don't have PDF Plugin Please Install");
+          location.host = "http://adobe.com/download";
+        }else {
+          document.write("You can view pdf documents");
+        }
+    }
+    f1();
+  </script>
+
+
+
+
+  
+  
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Document</title>
+
+
+  <script>
+    function f1(){
+      if(history.length > 3){
+        alert("You can view max  3 pages - Please register for more")
+        location.href = "register.html"
+      }else {
+          document.write("You can view max 3 pages only..");
+      }
+    
+    }
+    f1();
+  </script>
+
+</head>
+<body>
+    <h1>history object</h1>
+    <p>length - Gets the total count of pages in browser history</p>
+    <p>back() - Moves to previous page in browser history </p>
+    <p>forward() - To next page in browser history</p>
+    <p>goto() - To move to any specific page in browser history</p>
+
+
+</body>
+</html>
