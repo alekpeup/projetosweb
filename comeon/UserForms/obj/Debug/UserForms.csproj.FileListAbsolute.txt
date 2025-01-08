@@ -1,0 +1,3 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\comeon\UserForms\obj\Debug\UserForms.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\comeon\UserForms\obj\Debug\UserForms.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\comeon\UserForms\obj\Debug\UserForms.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\comeon\comeon\bin\Debug\comeon.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\comeon\comeon\bin\Debug\comeon.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\comeon\comeon\bin\Debug\comeon.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\comeon\comeon\obj\Debug\comeon.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\comeon\comeon\obj\Debug\comeon.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\comeon\comeon\obj\Debug\comeon.pdb

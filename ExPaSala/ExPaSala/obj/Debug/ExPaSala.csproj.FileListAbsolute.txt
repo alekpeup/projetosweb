@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ExPaSala\ExPaSala\bin\Debug\ExPaSala.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ExPaSala\ExPaSala\bin\Debug\ExPaSala.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ExPaSala\ExPaSala\bin\Debug\ExPaSala.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ExPaSala\ExPaSala\obj\Debug\ExPaSala.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ExPaSala\ExPaSala\obj\Debug\ExPaSala.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ExPaSala\ExPaSala\obj\Debug\ExPaSala.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ExPaSala\ExPaSala\obj\Debug\ExPaSala.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ExPaSala\ExPaSala\obj\Debug\ExPaSala.pdb
