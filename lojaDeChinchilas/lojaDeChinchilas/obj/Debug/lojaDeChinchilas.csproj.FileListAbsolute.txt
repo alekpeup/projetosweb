@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\lojaDeChinchilas\lojaDeChinchilas\bin\Debug\lojaDeChinchilas.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\lojaDeChinchilas\lojaDeChinchilas\bin\Debug\lojaDeChinchilas.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\lojaDeChinchilas\lojaDeChinchilas\bin\Debug\lojaDeChinchilas.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\lojaDeChinchilas\lojaDeChinchilas\obj\Debug\lojaDeChinchilas.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\lojaDeChinchilas\lojaDeChinchilas\obj\Debug\lojaDeChinchilas.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\lojaDeChinchilas\lojaDeChinchilas\obj\Debug\lojaDeChinchilas.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\lojaDeChinchilas\lojaDeChinchilas\obj\Debug\lojaDeChinchilas.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\lojaDeChinchilas\lojaDeChinchilas\obj\Debug\lojaDeChinchilas.pdb

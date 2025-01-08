@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LoginInterface\LoginInterface\bin\Debug\LoginInterface.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LoginInterface\LoginInterface\bin\Debug\LoginInterface.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LoginInterface\LoginInterface\bin\Debug\LoginInterface.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LoginInterface\LoginInterface\obj\Debug\LoginInterface.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LoginInterface\LoginInterface\obj\Debug\LoginInterface.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LoginInterface\LoginInterface\obj\Debug\LoginInterface.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LoginInterface\LoginInterface\obj\Debug\LoginInterface.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LoginInterface\LoginInterface\obj\Debug\LoginInterface.pdb

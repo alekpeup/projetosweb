@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LojaRegistro\LojaRegistro\bin\Debug\LojaRegistro.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LojaRegistro\LojaRegistro\bin\Debug\LojaRegistro.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LojaRegistro\LojaRegistro\bin\Debug\LojaRegistro.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LojaRegistro\LojaRegistro\obj\Debug\LojaRegistro.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LojaRegistro\LojaRegistro\obj\Debug\LojaRegistro.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LojaRegistro\LojaRegistro\obj\Debug\LojaRegistro.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LojaRegistro\LojaRegistro\obj\Debug\LojaRegistro.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\LojaRegistro\LojaRegistro\obj\Debug\LojaRegistro.pdb

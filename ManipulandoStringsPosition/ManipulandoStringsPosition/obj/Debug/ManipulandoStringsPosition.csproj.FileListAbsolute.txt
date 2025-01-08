@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ManipulandoStringsPosition\ManipulandoStringsPosition\bin\Debug\ManipulandoStringsPosition.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ManipulandoStringsPosition\ManipulandoStringsPosition\bin\Debug\ManipulandoStringsPosition.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ManipulandoStringsPosition\ManipulandoStringsPosition\bin\Debug\ManipulandoStringsPosition.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ManipulandoStringsPosition\ManipulandoStringsPosition\obj\Debug\ManipulandoStringsPosition.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ManipulandoStringsPosition\ManipulandoStringsPosition\obj\Debug\ManipulandoStringsPosition.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ManipulandoStringsPosition\ManipulandoStringsPosition\obj\Debug\ManipulandoStringsPosition.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ManipulandoStringsPosition\ManipulandoStringsPosition\obj\Debug\ManipulandoStringsPosition.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ManipulandoStringsPosition\ManipulandoStringsPosition\obj\Debug\ManipulandoStringsPosition.pdb

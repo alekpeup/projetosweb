@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\missangas2\missangas2\bin\Debug\missangas2.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\missangas2\missangas2\bin\Debug\missangas2.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\missangas2\missangas2\bin\Debug\missangas2.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\missangas2\missangas2\obj\Debug\missangas2.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\missangas2\missangas2\obj\Debug\missangas2.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\missangas2\missangas2\obj\Debug\missangas2.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\missangas2\missangas2\obj\Debug\missangas2.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\missangas2\missangas2\obj\Debug\missangas2.pdb
