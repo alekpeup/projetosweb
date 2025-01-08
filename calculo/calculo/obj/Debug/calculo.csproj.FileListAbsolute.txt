@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculo\calculo\bin\Debug\calculo.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculo\calculo\bin\Debug\calculo.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculo\calculo\bin\Debug\calculo.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculo\calculo\obj\Debug\calculo.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculo\calculo\obj\Debug\calculo.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculo\calculo\obj\Debug\calculo.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculo\calculo\obj\Debug\calculo.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculo\calculo\obj\Debug\calculo.pdb

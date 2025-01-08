@@ -1,0 +1,9 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\Ceramica\Ceramica\bin\Debug\Ceramica.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\Ceramica\Ceramica\bin\Debug\Ceramica.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\Ceramica\Ceramica\bin\Debug\Ceramica.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\Ceramica\Ceramica\obj\Debug\Ceramica.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\Ceramica\Ceramica\obj\Debug\Ceramica.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\Ceramica\Ceramica\obj\Debug\Ceramica.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\Ceramica\Ceramica\obj\Debug\Ceramica.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\Ceramica\Ceramica\obj\Debug\Ceramica.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\Ceramica\Ceramica\obj\Debug\Ceramica.ceramique2.resources

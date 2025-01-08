@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.pdb
