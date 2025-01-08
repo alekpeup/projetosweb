@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\vetores\vetores\bin\Debug\vetores.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\vetores\vetores\bin\Debug\vetores.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\vetores\vetores\bin\Debug\vetores.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\vetores\vetores\obj\Debug\vetores.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\vetores\vetores\obj\Debug\vetores.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\vetores\vetores\obj\Debug\vetores.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\vetores\vetores\obj\Debug\vetores.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\vetores\vetores\obj\Debug\vetores.pdb

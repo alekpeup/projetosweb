@@ -1,0 +1,6 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\w3cschool\w3cschool\bin\Debug\w3cschool.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\w3cschool\w3cschool\bin\Debug\w3cschool.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\w3cschool\w3cschool\bin\Debug\w3cschool.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\w3cschool\w3cschool\obj\Debug\w3cschool.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\w3cschool\w3cschool\obj\Debug\w3cschool.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\w3cschool\w3cschool\obj\Debug\w3cschool.pdb
