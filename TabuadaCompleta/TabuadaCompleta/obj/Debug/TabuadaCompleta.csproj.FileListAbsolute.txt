@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TabuadaCompleta\TabuadaCompleta\obj\Debug\TabuadaCompleta.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TabuadaCompleta\TabuadaCompleta\obj\Debug\TabuadaCompleta.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TabuadaCompleta\TabuadaCompleta\obj\Debug\TabuadaCompleta.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TabuadaCompleta\TabuadaCompleta\bin\Debug\TabuadaCompleta.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TabuadaCompleta\TabuadaCompleta\bin\Debug\TabuadaCompleta.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TabuadaCompleta\TabuadaCompleta\bin\Debug\TabuadaCompleta.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TabuadaCompleta\TabuadaCompleta\obj\Debug\TabuadaCompleta.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\TabuadaCompleta\TabuadaCompleta\obj\Debug\TabuadaCompleta.pdb

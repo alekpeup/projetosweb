@@ -1,0 +1,10 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SchoolProject\SchoolProject\bin\Debug\SchoolProject.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SchoolProject\SchoolProject\obj\Debug\SchoolProject.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SchoolProject\SchoolProject\obj\Debug\SchoolProject.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SchoolProject\SchoolProject\obj\Debug\SchoolProject.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SchoolProject\SchoolProject\obj\Debug\SchoolProject.frmCliente.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\SchoolProject\SchoolProject\obj\Debug\SchoolProject.frmProdutos.resources
