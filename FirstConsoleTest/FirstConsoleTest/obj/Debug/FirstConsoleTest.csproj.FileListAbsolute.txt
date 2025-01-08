@@ -1,0 +1,6 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\FirstConsoleTest\FirstConsoleTest\obj\Debug\FirstConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\FirstConsoleTest\FirstConsoleTest\bin\Debug\FirstConsoleTest.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\FirstConsoleTest\FirstConsoleTest\bin\Debug\FirstConsoleTest.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\FirstConsoleTest\FirstConsoleTest\bin\Debug\FirstConsoleTest.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\FirstConsoleTest\FirstConsoleTest\obj\Debug\FirstConsoleTest.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\FirstConsoleTest\FirstConsoleTest\obj\Debug\FirstConsoleTest.pdb

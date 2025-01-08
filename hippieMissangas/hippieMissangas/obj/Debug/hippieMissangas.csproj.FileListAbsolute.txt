@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\hippieMissangas\hippieMissangas\bin\Debug\hippieMissangas.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\hippieMissangas\hippieMissangas\bin\Debug\hippieMissangas.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\hippieMissangas\hippieMissangas\bin\Debug\hippieMissangas.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\hippieMissangas\hippieMissangas\obj\Debug\hippieMissangas.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\hippieMissangas\hippieMissangas\obj\Debug\hippieMissangas.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\hippieMissangas\hippieMissangas\obj\Debug\hippieMissangas.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\hippieMissangas\hippieMissangas\obj\Debug\hippieMissangas.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\hippieMissangas\hippieMissangas\obj\Debug\hippieMissangas.pdb

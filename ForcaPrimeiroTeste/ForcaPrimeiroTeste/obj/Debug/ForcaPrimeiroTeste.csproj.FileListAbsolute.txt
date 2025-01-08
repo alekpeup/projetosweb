@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ForcaPrimeiroTeste\ForcaPrimeiroTeste\bin\Debug\ForcaPrimeiroTeste.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ForcaPrimeiroTeste\ForcaPrimeiroTeste\bin\Debug\ForcaPrimeiroTeste.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ForcaPrimeiroTeste\ForcaPrimeiroTeste\bin\Debug\ForcaPrimeiroTeste.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ForcaPrimeiroTeste\ForcaPrimeiroTeste\obj\Debug\ForcaPrimeiroTeste.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ForcaPrimeiroTeste\ForcaPrimeiroTeste\obj\Debug\ForcaPrimeiroTeste.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ForcaPrimeiroTeste\ForcaPrimeiroTeste\obj\Debug\ForcaPrimeiroTeste.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ForcaPrimeiroTeste\ForcaPrimeiroTeste\obj\Debug\ForcaPrimeiroTeste.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ForcaPrimeiroTeste\ForcaPrimeiroTeste\obj\Debug\ForcaPrimeiroTeste.pdb

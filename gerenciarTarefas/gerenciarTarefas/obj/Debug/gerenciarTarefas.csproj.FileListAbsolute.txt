@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\gerenciarTarefas\gerenciarTarefas\bin\Debug\gerenciarTarefas.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\gerenciarTarefas\gerenciarTarefas\bin\Debug\gerenciarTarefas.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\gerenciarTarefas\gerenciarTarefas\bin\Debug\gerenciarTarefas.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\gerenciarTarefas\gerenciarTarefas\obj\Debug\gerenciarTarefas.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\gerenciarTarefas\gerenciarTarefas\obj\Debug\gerenciarTarefas.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\gerenciarTarefas\gerenciarTarefas\obj\Debug\gerenciarTarefas.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\gerenciarTarefas\gerenciarTarefas\obj\Debug\gerenciarTarefas.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\gerenciarTarefas\gerenciarTarefas\obj\Debug\gerenciarTarefas.pdb
